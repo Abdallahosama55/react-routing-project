@@ -1,0 +1,65 @@
+body{
+  overflow-x: hidden !important;
+}
+.App {
+
+ 
+
+}
+.page-not-found{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background: #61dafb !important;
+  text-align: center;
+  color: #d45555 !important;
+padding-bottom:50vh !important;
+padding-top:10vh !important;
+  font-weight: bold;
+
+}
+.About{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background: #61dafb !important;
+  text-align: center;
+  color: #fff !important;
+padding-bottom:30vh !important;
+padding-top:10vh !important;
+  font-weight: bold;
+}
+.About p{
+  padding-top:70px !important;
+  text-align: center;
+width:75% !important;
+}
+.bg-con{
+  background-color: #61dafb !important;
+}
+.Contact{
+  height:58vh !important;
+  background:#fff;
+}
+.Contact h1{
+  padding-top:20px;
+  color: rgb(30, 30, 71);
+}
+.Home{
+  display: flex !important;
+  justify-content: center !important;
+  align-items: center !important;
+  background: #61dafb !important;
+}
+.Home h1{
+padding-bottom:20px !important;
+
+}
+.card-img{
+  scale: 0.75 !important;
+}
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
